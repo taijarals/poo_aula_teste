@@ -152,3 +152,15 @@ O Java executa a versão de `exibirDados()` correspondente à classe real do obj
 ## Material de estudo
 
 Leia [docs/GUIA_DE_ESTUDO.md](docs/GUIA_DE_ESTUDO.md) depois de executar todas as opções do menu.
+
+### Documentação detalhada do código
+
+1. [O problema e a execução do programa](docs/documentacao/01-problema-e-execucao.md)
+2. [A classe Partido](docs/documentacao/02-classe-partido.md)
+3. [A classe abstrata Candidato](docs/documentacao/03-classe-candidato.md)
+4. [Herança e sobrescrita nas subclasses](docs/documentacao/04-heranca-e-sobrescrita.md)
+5. [Coleções e encapsulamento em CadastroEleitoral](docs/documentacao/05-colecoes-e-encapsulamento.md)
+6. [Main e a interação entre objetos](docs/documentacao/06-main-e-interacao.md)
+7. [Cadastro dos dois tipos de candidatos](docs/documentacao/07-cadastro-dos-candidatos.md)
+8. [Polimorfismo durante a listagem](docs/documentacao/08-polimorfismo-na-listagem.md)
+9. [Atividades práticas de modificação](docs/documentacao/09-atividades-praticas.md)
